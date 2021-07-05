@@ -2,7 +2,7 @@
 - 👀 I’m interested in the development of graph databases related to bioinformatics
 - 🌱 I’m currently learning Neo4j, Kotlin, R, & Julia
 - 💞️ I’m looking to collaborate on bioinformatics applications
-- 📫 I can be contacted at batteryparkdev@gmail.com
+- 📫 I can be contacted at genomicdatasci@gmail.com
 
 <!---
 fcriscuo/fcriscuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
